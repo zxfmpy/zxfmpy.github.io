@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "M2R95ED272.com.zxfmpy.XFPassword",
+            "paths": ["*"]
+        }]
+    }
+    "webcredentials": {
+        "apps": ["M2R95ED272.com.zxfmpy.XFPassword"]
+    }
+}
